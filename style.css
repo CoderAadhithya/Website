@@ -1,0 +1,21 @@
+h1 {
+    color: brown;
+  }  
+
+
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+
+.menu{
+    display:flex;
+    background-color: bisque;
+    justify-content: space-around;
+}
+
+.games{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
